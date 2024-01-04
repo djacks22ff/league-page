@@ -132,6 +132,31 @@
         text-indent: 4em;
     }
 
+    .bio_first {
+        margin: 2em 1.5em 2em;
+        text-indent: 4em;
+    }
+
+    .bio_second {
+        margin: 2em 1.5em 2em;
+        text-indent: 4em;
+    }
+
+    .bio_third {
+        margin: 2em 1.5em 2em;
+        text-indent: 4em;
+    }
+
+    .bio_playoffs {
+        margin: 2em 1.5em 2em;
+        text-indent: 4em;
+    }
+
+    .bio_eisencock {
+        margin: 2em 1.5em 2em;
+        text-indent: 4em;
+    }
+
     .philosophy {
         margin: 2em 1.5em 2em;
         text-indent: 4em;
