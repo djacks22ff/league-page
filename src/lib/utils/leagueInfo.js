@@ -33,8 +33,7 @@ export const managers = [
       "managerID": "1001496416499433472",  // ID of the roster that the manager manages (look at the order of the power rankings graph)
       "name": "Brandon Caldwell",
       "location": "Gainesville, GA", // (optional)
-      "bio": <p>Ryan is commissioner</p>
-              <p>duh</p>,
+      "bio": "Ryan is commissioner",
       "photo": "/managers/brandon.png", // square ratio recommended (no larger than 500x500)
       "fantasyStart": 2011, // (non-optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
