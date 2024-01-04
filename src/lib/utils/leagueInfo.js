@@ -182,7 +182,7 @@ export const managers = [
       "location": "Statesboro, GA (God's Country)", // (optional)
       "bio": "Ryan is commissioner",
       "photo": "/managers/nic.png", // square ratio recommended (no larger than 500x500)
-      "fantasyStart": 2011, // (non-optional) when did the manager start playing fantasy football
+      "fantasyStart": 2018, // (non-optional) when did the manager start playing fantasy football
       "favoriteTeam": "atl", // (optional) favorite NFL team, (follows convention: nyj, sea, mia, etc.) MUST BE LOWERCASE
       "mode": "Win Now", // (optional) 'Win Now', 'Dynasty', or 'Rebuild' (anything else and you will need to add a new png to /static/ similar to the 'Rebuild.png' and 'Win Now.png' currently in there)
       "rival": {
