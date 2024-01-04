@@ -132,31 +132,6 @@
         text-indent: 4em;
     }
 
-    .bio_first {
-        margin: 2em 1.5em 2em;
-        text-indent: 4em;
-    }
-
-    .bio_second {
-        margin: 2em 1.5em 2em;
-        text-indent: 4em;
-    }
-
-    .bio_third {
-        margin: 2em 1.5em 2em;
-        text-indent: 4em;
-    }
-
-    .bio_playoffs {
-        margin: 2em 1.5em 2em;
-        text-indent: 4em;
-    }
-
-    .bio_eisencock {
-        margin: 2em 1.5em 2em;
-        text-indent: 4em;
-    }
-
     .philosophy {
         margin: 2em 1.5em 2em;
         text-indent: 4em;
@@ -315,11 +290,6 @@
         </div>
 
         <p class="bio">{@html viewManager.bio}</p>
-	<p class="bio_first">{@html viewManager.bio_first}</p>
-	<p class="bio_second">{@html viewManager.bio_second}</p>
-	<p class="bio_third">{@html viewManager.bio_third}</p>
-	<p class="bio_playoffs">{@html viewManager.bio_playoffs}</p>
-	<p class="bio_eisencock">{@html viewManager.bio_eisencock}</p>
         {#if viewManager.philosophy}
             <!-- philosophy is an optional field -->
             <h3>Team Philosophy</h3>
